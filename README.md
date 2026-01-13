@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/amitvibe"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="www.linkedin.com/in/amit-yadav-3408a2308"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:amit.y21c@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/amitvibe(https://github.com/mr-amit-yadav)"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -30,10 +30,10 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Data Analysis** | Pandas • NumPy • Excel • Statistical Analysis |
-| **Visualization** | Power BI • Matplotlib • Seaborn • Plotly |
-| **Databases** | MySQL • PostgreSQL (learning) |
+| **Visualization** | Power BI • Matplotlib • Seaborn|
+| **Databases** | MySQL|
 | **Tools & Platforms** | Jupyter • VS Code • Git & GitHub • Google Colab |
 
 </div>
@@ -51,20 +51,7 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitvibe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvibe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitvibe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 - [ ] Complete 5+ end-to-end data analysis projects
 - [ ] Master advanced Power BI and Tableau
@@ -91,8 +78,8 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 </p>
 
 <p align="center">
-  <strong>📧 Email:</strong> your.email@example.com<br>
-  <strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a>
+  <strong>📧 Email:</strong> amit.y21c@gmail.com <br>
+  <strong>🔗 LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-3408a2308">linkedin.com/in/yourprofile</a>
 </p>
 
 ---
