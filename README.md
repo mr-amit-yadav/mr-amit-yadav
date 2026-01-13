@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/amit-yadav-3408a2308"></a>
-  <a href="mailto:amit.y21c@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/amitvibe(https://github.com/mr-amit-yadav)"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:amit.y21c@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/mr-amit-yadav">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
