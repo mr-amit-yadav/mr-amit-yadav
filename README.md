@@ -47,14 +47,18 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 ---
 
 ## 📊 Featured Projects
+🤖 Machine Learning & AI
+Machine-Learning: A comprehensive collection of implementations covering Regression, Classification, and Regularization techniques using Python.<br>
 
-> 🚧 *Currently building my portfolio - exciting projects coming soon!*
+AI-Powered Learning Assistant: An intelligent assistant designed to elaborate on complex concepts using the Google Gemini API.<br>
 
-**Interested in collaborating?** I'm open to working on:
-- 📈 Data analysis and visualization projects
-- 🤖 Machine learning applications
-- 📊 Business intelligence dashboards
+📈 Data Analysis & Dashboards
+Adidas Sales Dashboard: An interactive Streamlit dashboard for visualizing and analyzing Adidas sales data with dynamic charts and insights.<br>
 
+Data Visualization with Python: Demonstrates the use of Matplotlib to create multi-dimensional visualizations, focusing on overlaying line and bar charts for sales data.<br>
+
+🌐 Web & Portfolio
+Personal Portfolio Website: My personal portfolio site built with HTML to showcase my journey in Data Science and AI.
 ---
 
 ## 🎯 2026 Roadmap
