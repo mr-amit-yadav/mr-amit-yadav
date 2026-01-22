@@ -47,23 +47,39 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 ---
 
 ## 📊 Featured Projects
-🤖 AI-Powered Learning Assistant
-An intelligent learning assistant that elaborates on complex concepts to improve academic understanding.
 
-Tech: Python, Google Gemini API, Streamlit, Hugging Face.
+### 🤖 AI-Powered Learning Assistant
+An intelligent learning assistant designed to elaborate on complex concepts and improve academic understanding through AI-driven explanations.
 
-📈 Adidas Sales Dashboard
-An interactive business intelligence dashboard for visualizing and analyzing Adidas sales trends and insights.
+**Tech Stack:**  
+`Python` • `Google Gemini API` • `Streamlit` • `Hugging Face`
 
-Tech: Python, Streamlit, Data Visualization, Pandas.
-
-📉 Machine Learning Practical Hub
-A comprehensive repository containing practical implementations of core ML algorithms, including Regression, Classification, and Regularization techniques.
-
-Tech: Jupyter Notebook, Scikit-learn, Python.
-🌐 Web & Portfolio
-Personal Portfolio Website: My personal portfolio site built with HTML to showcase my journey in Data Science and AI.
 ---
+
+### 📈 Adidas Sales Dashboard
+An interactive business intelligence dashboard built to visualize, analyze, and extract meaningful insights from Adidas sales data.
+
+**Tech Stack:**  
+`Python` • `Streamlit` • `Pandas` • `Data Visualization`
+
+---
+
+### 📉 Machine Learning Practical Hub
+A comprehensive repository featuring hands-on implementations of core machine learning algorithms, including:
+- Regression  
+- Classification  
+- Regularization Techniques  
+
+**Tech Stack:**  
+`Python` • `Scikit-learn` • `Jupyter Notebook`
+
+---
+
+## 🌐 Web & Portfolio
+
+### 🌍 Personal Portfolio Website
+A personal portfolio website built with HTML to showcase my journey in Data Science and Artificial Intelligence.
+
 
 ## 🎯 2026 Roadmap
 
