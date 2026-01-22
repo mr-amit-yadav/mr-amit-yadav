@@ -45,6 +45,13 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 </div>
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitvibe&show_icons=true&theme=radical" alt="Amit's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvibe&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+---
 
 ## 📊 Featured Projects
 
