@@ -54,25 +54,17 @@ An intelligent learning assistant designed to elaborate on complex concepts and 
 **Tech Stack:**  
 `Python` • `Google Gemini API` • `Streamlit` • `Hugging Face`
 
+🔗 [View Project](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
 ---
 
 ### 📈 Adidas Sales Dashboard
 An interactive business intelligence dashboard built to visualize, analyze, and extract meaningful insights from Adidas sales data.
+https://github.com/mr-amit-yadav/Adidas_Sales_Dashboard
 
 **Tech Stack:**  
 `Python` • `Streamlit` • `Pandas` • `Data Visualization`
 
----
-
-### 📉 Machine Learning Practical Hub
-A comprehensive repository featuring hands-on implementations of core machine learning algorithms, including:
-- Regression  
-- Classification  
-- Regularization Techniques  
-
-**Tech Stack:**  
-`Python` • `Scikit-learn` • `Jupyter Notebook`
-
+🔗 [View Project](https://github.com/mr-amit-yadav/Adidas_Sales_Dashboard)
 ---
 
 ### 🏪 ElectroHub – Power BI Sales Analytics Dashboard
@@ -91,7 +83,7 @@ Analyzed a chips-category retail dataset to understand how different customer se
 **Tech Stack:**  
 `Python` • `Pandas` • `Exploratory Data Analysis` • `Data Visualization`
 
-🔗 [View Project](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis])
+🔗 [View Project](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis)
 
 ---
 
@@ -101,7 +93,7 @@ A comprehensive Exploratory Data Analysis (EDA) of the Portuguese "Vinho Verde" 
 **Tech Stack:**  
 `Python` • `Pandas` • `Seaborn` • `Matplotlib` • `Data Cleaning` • `Statistical Analysis`
 
-🔗 [View Project](https://github.com/mr-amit-yadav/Red-Wine-Exploratory-D...)
+🔗 [View Project](https://github.com/mr-amit-yadav/Red_Wine_Exploratory_Data_Analysis)
 
 ---
 
@@ -111,7 +103,9 @@ A modern QR Code Generator web app with customizable colors, styling options, an
 **Tech Stack:**  
 `Python` • `Streamlit`
 
+🔗 [View Project](https://github.com/mr-amit-yadav/QR-Code-Generator)
 ---
+
 
 ## 🌐 Web & Portfolio
 
