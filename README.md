@@ -74,6 +74,7 @@ A comprehensive repository featuring hands-on implementations of core machine le
 `Python` • `Scikit-learn` • `Jupyter Notebook`
 
 ---
+
 ### 🏪 ElectroHub – Power BI Sales Analytics Dashboard
 A comprehensive retail sales analytics dashboard built in Power BI for ElectroHub, a multi-category store selling Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care products. Analyzes transactional sales data to surface key business insights including revenue trends, product performance, customer behavior, discount effectiveness, and geo-based analysis.
 
@@ -90,7 +91,7 @@ Analyzed a chips-category retail dataset to understand how different customer se
 **Tech Stack:**  
 `Python` • `Pandas` • `Exploratory Data Analysis` • `Data Visualization`
 
-🔗 [View Project](https://github.com/mr-amit-yadav/Chips-Customer-Purchase-)
+🔗 [View Project](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis])
 
 ---
 
@@ -117,16 +118,6 @@ A modern QR Code Generator web app with customizable colors, styling options, an
 ### 🌍 Personal Portfolio Website
 A personal portfolio website built with HTML to showcase my journey in Data Science and Artificial Intelligence.
 
-
-## 🎯 2026 Roadmap
-
-- [ ] Complete 5+ end-to-end data analysis projects
-- [ ] Master advanced Power BI and Tableau
-- [ ] Contribute to open-source data science projects
-- [ ] Build a personal portfolio website
-- [ ] Network with 100+ professionals in the data community
-
----
 
 ## 💭 Philosophy
 
