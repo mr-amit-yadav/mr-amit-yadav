@@ -21,12 +21,12 @@
 
 ## 🚀 About Me
 
-I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwala College*, Mumbai, passionate about leveraging data to drive meaningful decisions and create technological solutions that matter.
+I'm a Data Science & AI graduate with a strong focus on data analytics and decision-making, driven by a passion for transforming data into meaningful insights.
 
 - 🔍 **Focus Areas:** Data Analysis, Machine Learning, Business Intelligence
 - 💼 **Career Goal:** Data Analyst specializing in predictive analytics and data-driven storytelling
 - 🌱 **Currently Learning:** Advanced ML algorithms, Deep Learning, and Data Engineering pipelines
-- ⚡ **Beyond Tech:** Practicing yoga, avid reader, and believer in purpose-driven growth
+- ⚡ **Beyond Tech:** Practicing yoga, book reader, and believer in purpose-driven growth
 
 ---
 
@@ -49,25 +49,27 @@ I'm a final-year **B.Sc. Data Science & AI** student at *Ramniranjan Jhunjhunwal
 ## 📊 Featured Projects
 
 ### 🤖 AI-Powered Learning Assistant
+
 An intelligent learning assistant designed to elaborate on complex concepts and improve academic understanding through AI-driven explanations.
 
 **Tech Stack:**  
 `Python` • `Google Gemini API` • `Streamlit` • `Hugging Face`
 
-🔗 [View Project](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
 ---
 
 ### 📈 Adidas Sales Dashboard
+
 An interactive business intelligence dashboard built to visualize, analyze, and extract meaningful insights from Adidas sales data.
-https://github.com/mr-amit-yadav/Adidas_Sales_Dashboard
 
 **Tech Stack:**  
 `Python` • `Streamlit` • `Pandas` • `Data Visualization`
 
 🔗 [View Project](https://github.com/mr-amit-yadav/Adidas_Sales_Dashboard)
+
 ---
 
 ### 🏪 ElectroHub – Power BI Sales Analytics Dashboard
+
 A comprehensive retail sales analytics dashboard built in Power BI for ElectroHub, a multi-category store selling Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care products. Analyzes transactional sales data to surface key business insights including revenue trends, product performance, customer behavior, discount effectiveness, and geo-based analysis.
 
 **Tech Stack:**  
@@ -78,6 +80,7 @@ A comprehensive retail sales analytics dashboard built in Power BI for ElectroHu
 ---
 
 ### 🛒 Customer Purchase Analysis
+
 Analyzed a chips-category retail dataset to understand how different customer segments purchase chips. Using transactional and demographic data, the analysis segments customers by life stage and price sensitivity, extracts product attributes (brand, pack size), and visualizes purchasing trends to derive actionable business insights.
 
 **Tech Stack:**  
@@ -88,6 +91,7 @@ Analyzed a chips-category retail dataset to understand how different customer se
 ---
 
 ### 🍷 Red Wine Exploratory Data Analysis
+
 A comprehensive Exploratory Data Analysis (EDA) of the Portuguese "Vinho Verde" Red Wine dataset, examining physicochemical properties and their relationship to wine quality.
 
 **Tech Stack:**  
@@ -98,20 +102,23 @@ A comprehensive Exploratory Data Analysis (EDA) of the Portuguese "Vinho Verde" 
 ---
 
 ### 🔗 Professional QR Code Generator
+
 A modern QR Code Generator web app with customizable colors, styling options, and instant download feature built using Python and Streamlit.
 
 **Tech Stack:**  
 `Python` • `Streamlit`
 
 🔗 [View Project](https://github.com/mr-amit-yadav/QR-Code-Generator)
----
 
+---
 
 ## 🌐 Web & Portfolio
 
 ### 🌍 Personal Portfolio Website
+
 A personal portfolio website built with HTML to showcase my journey in Data Science and Artificial Intelligence.
 
+---
 
 ## 💭 Philosophy
 
@@ -131,12 +138,15 @@ A personal portfolio website built with HTML to showcase my journey in Data Scie
 
 <p align="center">
   <strong>📧 Email:</strong> amit.y21c@gmail.com <br>
-  <strong>🔗 LinkedIn:</strong> <a href="www.linkedin.com/in/amit-yadav-3408a2308">linkedin.com/in/yourprofile</a>
+  <strong>🔗 LinkedIn:</strong> 
+  <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
+    linkedin.com/in/amit-yadav-3408a2308
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <em>⭐ Thanks for visiting! If you find my work interesting, consider following me ⭐</em><br>
-  <img src="https://komarev.com/ghpvc/?username=amitvibe&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mr-amit-yadav&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
