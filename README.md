@@ -55,6 +55,8 @@ An intelligent learning assistant designed to elaborate on complex concepts and 
 **Tech Stack:**  
 `Python` • `Google Gemini API` • `Streamlit` • `Hugging Face`
 
+🔗 [View Project](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
+
 ---
 
 ### 📈 Adidas Sales Dashboard
