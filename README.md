@@ -74,6 +74,43 @@ A comprehensive repository featuring hands-on implementations of core machine le
 `Python` • `Scikit-learn` • `Jupyter Notebook`
 
 ---
+### 🏪 ElectroHub – Power BI Sales Analytics Dashboard
+A comprehensive retail sales analytics dashboard built in Power BI for ElectroHub, a multi-category store selling Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care products. Analyzes transactional sales data to surface key business insights including revenue trends, product performance, customer behavior, discount effectiveness, and geo-based analysis.
+
+**Tech Stack:**  
+`Power BI` • `Data Analysis` • `Data Visualization` • `Business Intelligence`
+
+🔗 [View Project](https://github.com/mr-amit-yadav/Electrohub)
+
+---
+
+### 🛒 Customer Purchase Analysis
+Analyzed a chips-category retail dataset to understand how different customer segments purchase chips. Using transactional and demographic data, the analysis segments customers by life stage and price sensitivity, extracts product attributes (brand, pack size), and visualizes purchasing trends to derive actionable business insights.
+
+**Tech Stack:**  
+`Python` • `Pandas` • `Exploratory Data Analysis` • `Data Visualization`
+
+🔗 [View Project](https://github.com/mr-amit-yadav/Chips-Customer-Purchase-)
+
+---
+
+### 🍷 Red Wine Exploratory Data Analysis
+A comprehensive Exploratory Data Analysis (EDA) of the Portuguese "Vinho Verde" Red Wine dataset, examining physicochemical properties and their relationship to wine quality.
+
+**Tech Stack:**  
+`Python` • `Pandas` • `Seaborn` • `Matplotlib` • `Data Cleaning` • `Statistical Analysis`
+
+🔗 [View Project](https://github.com/mr-amit-yadav/Red-Wine-Exploratory-D...)
+
+---
+
+### 🔗 Professional QR Code Generator
+A modern QR Code Generator web app with customizable colors, styling options, and instant download feature built using Python and Streamlit.
+
+**Tech Stack:**  
+`Python` • `Streamlit`
+
+---
 
 ## 🌐 Web & Portfolio
 
