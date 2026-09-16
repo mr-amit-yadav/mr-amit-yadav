@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">Data Analyst · Data Science & AI Graduate · Mumbai, India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e87532,100:a9762a&height=170&section=header&text=Amit%20Yadav&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20Data%20Science%20%26%20AI%20Graduate%20%C2%B7%20Mumbai&descSize=17&descAlignY=57" alt="Amit Yadav" />
+</p>
 
 <p align="center">
   <em>“Finding beauty in logic, and creating peace in chaos.”</em>
@@ -7,19 +8,19 @@
 
 <p align="center">
   <a href="https://mr-amit-yadav.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-e87532?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-e87532?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=17120f" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17120f" alt="LinkedIn" />
   </a>
   <a href="https://public.tableau.com/app/profile/amit.yadav1803/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=17120f" alt="Tableau Public" />
   </a>
   <a href="https://www.kaggle.com/amitvibes">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=17120f" alt="Kaggle" />
   </a>
   <a href="mailto:amit.y21c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-c65328?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-c65328?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17120f" alt="Email" />
   </a>
 </p>
 
