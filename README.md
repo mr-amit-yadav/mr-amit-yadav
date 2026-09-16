@@ -53,7 +53,7 @@ Right now I'm an STP Consultant at EnFuse Solutions, keeping AI/ML pipelines hon
 
 ---
 
-## 📊 Selected Work — Chapters Written in Data
+## 📊 Selected Work - Chapters Written in Data
 
 ### 🎓 Student Depression Analysis · *Tableau · SQL Server*
 A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing - 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
@@ -66,28 +66,6 @@ A live Tableau dashboard exploring how sleep, study hours, academic pressure and
 End-to-end Power BI dashboard over 20,000 UPI transactions - payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
 
 🔗 [**View project**](https://github.com/mr-amit-yadav/UPI-Transaction-Analytics-Dashboard)
-
----
-
-### 🛍️ Superstore Sales Analysis · *Tableau · Retail*
-An interactive Tableau story of Superstore sales - profit by region, order trends, pricing tiers and the profit-to-sales relationship.
-
-🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/SuperstoreSalesTableauDashboard_17813572391830/Dashboard1)
-
----
-
-### 🏪 ElectroHub Sales Analytics · *Power BI · Business Intelligence*
-Multi-category retail analytics across electronics, footwear, clothing, home appliances and more - revenue trends, product performance, discount effectiveness, customer behaviour and geo-based analysis.
-
-🔗 [**View project**](https://github.com/mr-amit-yadav/Electrohub)
-
----
-
-### 🤖 AI-Powered Learning Assistant · *Python · Gemini API · Streamlit*
-An intelligent study companion that elaborates complex concepts through AI-driven explanations - built with Google's Gemini API, NLP and Streamlit.
-
-🔗 [**View project**](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
-
 ---
 
 <details>
