@@ -53,33 +53,43 @@ Right now I'm an STP Consultant at EnFuse Solutions, keeping AI/ML pipelines hon
 
 ---
 
-## 📊 Selected Work - Chapters Written in Data
+## 📊 Selected Work — Chapters Written in Data
 
 ### 🎓 Student Depression Analysis · *Tableau · SQL Server*
-A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing - 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
+A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing — 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
 
 🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/StudentDepressionAnalysis_17819114122320/StudentCountAnalysis)
 
 ---
 
 ### 💳 UPI Transaction Analytics Dashboard · *Power BI · DAX*
-End-to-end Power BI dashboard over 20,000 UPI transactions - payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
+End-to-end Power BI dashboard over 20,000 UPI transactions — payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
 
 🔗 [**View project**](https://github.com/mr-amit-yadav/UPI-Transaction-Analytics-Dashboard)
+
 ---
 
-<details>
-<summary><b>📁 More experiments - EDA, retail analytics & small tools</b></summary>
+### 🛍️ Superstore Sales Analysis · *Tableau · Retail*
+An interactive Tableau story of Superstore sales — profit by region, order trends, pricing tiers and the profit-to-sales relationship.
 
-<br>
+🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/SuperstoreSalesTableauDashboard_17813572391830/Dashboard1)
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [Chips Customer Purchase Analysis](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis) | Segments retail customers by life stage and price sensitivity, extracting brand and pack-size attributes from transaction data | `Python` `Pandas` `EDA` |
-| [Red Wine Exploratory Data Analysis](https://github.com/mr-amit-yadav/Red_Wine_Exploratory_Data_Analysis) | Examines the physicochemical properties of the Portuguese “Vinho Verde” dataset and how they relate to quality | `Python` `Seaborn` `Statistics` |
-| [QR Code Generator](https://github.com/mr-amit-yadav/QR-Code-Generator) | A modern QR generator web app with custom colours, styling and instant download | `Python` `Streamlit` |
+---
 
-</details>
+### 🏪 ElectroHub Sales Analytics · *Power BI · Business Intelligence*
+Multi-category retail analytics across electronics, footwear, clothing, home appliances and more — revenue trends, product performance, discount effectiveness, customer behaviour and geo-based analysis.
+
+🔗 [**View project**](https://github.com/mr-amit-yadav/Electrohub)
+
+---
+
+### 🤖 AI-Powered Learning Assistant · *Python · Gemini API · Streamlit*
+An intelligent study companion that elaborates complex concepts through AI-driven explanations — built with Google's Gemini API, NLP and Streamlit.
+
+🔗 [**View project**](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
+
+---
+
 
 ## 💭 Philosophy
 
