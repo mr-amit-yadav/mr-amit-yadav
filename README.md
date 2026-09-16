@@ -6,14 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://mr-amit-yadav.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-e87532?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://github.com/mr-amit-yadav">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/amit.yadav1803/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.kaggle.com/amitvibes">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -29,15 +26,15 @@
 
 Thanks for stopping by - chai in hand, query in mind. 🍵
 
-I'm a **Data Science & AI graduate** from the University of Mumbai who believes that **data is a tool, insight is the impact**. My favourite part of the job is the quiet moment when a messy spreadsheet finally gives up its secret - and then turning that moment into something a person can actually act on.
+I'm a Data Science & AI graduate from the University of Mumbai who believes that data is a tool, insight is the impact. My favourite part of the job is the quiet moment when a messy spreadsheet finally gives up its secret - and then turning that moment into something a person can actually act on.
 
-Right now I'm an **STP Consultant at EnFuse Solutions**, keeping AI/ML pipelines honest - validating data on AWS S3, auditing extractions, and preparing the ground-truth datasets that models learn from. Before that, I built a **KPI intelligence framework for carbon monitoring at SequestraBionix**, because I care about data that helps the planet too.
+Right now I'm an STP Consultant at EnFuse Solutions, keeping AI/ML pipelines honest - validating data on AWS S3, auditing extractions, and preparing the ground-truth datasets that models learn from. Before that, I built a KPI intelligence framework for carbon monitoring at SequestraBionix, because I care about data that helps the planet too.
 
-- 🔍 **Focus:** Data Analysis · Business Intelligence · Applied AI
+- 🔍 **Focus:** Data Analysis & AI Automation
 - 💼 **Currently:** STP Consultant @ EnFuse Solutions
 - 🌱 **Learning:** Advanced ML, data engineering pipelines - and 日本語
 - 💬 **Ask me about:** dashboards, SQL puzzles, chess openings, or a good book
-- ♡ **Open to:** data roles with meaning — especially in sustainability
+- ♡ **Open to:** data roles with meaning - especially in sustainability
 
 ---
 
@@ -62,49 +59,42 @@ Right now I'm an **STP Consultant at EnFuse Solutions**, keeping AI/ML pipelines
 ## 📊 Selected Work — Chapters Written in Data
 
 ### 🎓 Student Depression Analysis · *Tableau · SQL Server*
-A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing — 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
+A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing - 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
 
 🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/StudentDepressionAnalysis_17819114122320/StudentCountAnalysis)
 
 ---
 
 ### 💳 UPI Transaction Analytics Dashboard · *Power BI · DAX*
-End-to-end Power BI dashboard over 20,000 UPI transactions — payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
+End-to-end Power BI dashboard over 20,000 UPI transactions - payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
 
 🔗 [**View project**](https://github.com/mr-amit-yadav/UPI-Transaction-Analytics-Dashboard)
 
 ---
 
 ### 🛍️ Superstore Sales Analysis · *Tableau · Retail*
-An interactive Tableau story of Superstore sales — profit by region, order trends, pricing tiers and the profit-to-sales relationship.
+An interactive Tableau story of Superstore sales - profit by region, order trends, pricing tiers and the profit-to-sales relationship.
 
 🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/SuperstoreSalesTableauDashboard_17813572391830/Dashboard1)
 
 ---
 
 ### 🏪 ElectroHub Sales Analytics · *Power BI · Business Intelligence*
-Multi-category retail analytics across electronics, footwear, clothing, home appliances and more — revenue trends, product performance, discount effectiveness, customer behaviour and geo-based analysis.
+Multi-category retail analytics across electronics, footwear, clothing, home appliances and more - revenue trends, product performance, discount effectiveness, customer behaviour and geo-based analysis.
 
 🔗 [**View project**](https://github.com/mr-amit-yadav/Electrohub)
 
 ---
 
 ### 🤖 AI-Powered Learning Assistant · *Python · Gemini API · Streamlit*
-An intelligent study companion that elaborates complex concepts through AI-driven explanations — built with Google's Gemini API, NLP and Streamlit.
+An intelligent study companion that elaborates complex concepts through AI-driven explanations - built with Google's Gemini API, NLP and Streamlit.
 
 🔗 [**View project**](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
 
 ---
 
-### 👟 Adidas Sales Dashboard · *Python · Streamlit · Pandas*
-Interactive business intelligence on Adidas sales — regional performance, product popularity and sales trends, served as a live Streamlit app.
-
-🔗 [**View project**](https://github.com/mr-amit-yadav/Adidas-streamlit-Dashboard)
-
----
-
 <details>
-<summary><b>📁 More experiments — EDA, retail analytics & small tools</b></summary>
+<summary><b>📁 More experiments - EDA, retail analytics & small tools</b></summary>
 
 <br>
 
@@ -127,7 +117,6 @@ Interactive business intelligence on Adidas sales — regional performance, prod
 | **CGPA** · B.Sc. Data Science & AI | **Projects shipped** | **Tools, one craft** |
 
 </div>
----
 
 ## 🌿 Beyond the Data
 
@@ -152,10 +141,10 @@ Hiring for a data role, building something interesting, or just want to talk boo
 
 <div align="center">
 
-📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)<br>
+📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)
 🔗 **LinkedIn:** [amit-yadav-3408a2308](https://www.linkedin.com/in/amit-yadav-3408a2308)
 🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)<br>
-📊 **Tableau Public:** [amit.yadav1803](https://public.tableau.com/app/profile/amit.yadav1803/vizzes)
+📊 **Tableau Public:** [amit.yadav1803](https://public.tableau.com/app/profile/amit.yadav1803/vizzes)<br>
 📍 **Based in:** Mumbai, Maharashtra, India
 
 </div>
@@ -163,6 +152,6 @@ Hiring for a data role, building something interesting, or just want to talk boo
 ---
 
 <p align="center">
-  <em>⭐ Thanks for visiting — if something here sparked an idea, I'd love to hear about it.</em><br>
+  <em>⭐ Thanks for visiting - if something here sparked an idea, I'd love to hear about it.</em><br>
   <img src="https://komarev.com/ghpvc/?username=mr-amit-yadav&label=Profile%20Views&color=e87532&style=flat" alt="Profile Views" />
 </p>
