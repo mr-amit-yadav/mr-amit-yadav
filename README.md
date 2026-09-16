@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e87532,100:a9762a&height=170&section=header&text=Amit%20Yadav&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20Data%20Science%20%26%20AI%20Graduate%20%C2%B7%20Mumbai&descSize=17&descAlignY=57" alt="Amit Yadav" />
+  <img src="amit1.jpeg" alt="Amit Yadav" />
 </p>
 
 <p align="center">
