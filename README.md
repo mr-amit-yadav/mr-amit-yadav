@@ -6,19 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mr-amit-yadav">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.kaggle.com/amitvibes">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
   <a href="mailto:amit.y21c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-c65328?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
+  <a href="https://github.com/mr-amit-yadav">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p> 
 
 ---
 
@@ -118,22 +115,6 @@ An intelligent study companion that elaborates complex concepts through AI-drive
 
 </div>
 
-## 🌿 Beyond the Data
-
-The chapters between the charts — because analysis is better when the analyst is well-rested.
-
-| | |
-|:--|:--|
-| 📚 **Books** | Living one page at a time. Every dataset is a story; books taught me how to read them. |
-| ♟️ **Chess** | Thinking five moves ahead - the habit transfers surprisingly well to data modelling. |
-| 🈶 **日本語** | Slowly, patiently learning Japanese. |
-| 🧘 **Yoga** | Diploma in Yogic Science. Creating peace in chaos. |
-| ✏️ **Sketching** | Lines before dashboards. |
-
-> *“Don't just aspire to make a living, aspire to make a difference.”*
-> — a note pinned above my desk
-
----
 
 ## 🤝 Let's Write the Next Chapter
 
