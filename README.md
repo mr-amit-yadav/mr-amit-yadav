@@ -1,154 +1,174 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">Data Science & AI Student | Transforming Data into Actionable Insights</h3>
+<h3 align="center">Data Analyst · Data Science & AI Graduate · Mumbai, India</h3>
 
 <p align="center">
-  <em>🎓 B.Sc. Data Science & AI | 💡 AI Enthusiast | 📊 Data Analytics | 🌱 Lifelong Learner</em>
+  <em>“Finding beauty in logic, and creating peace in chaos.”</em>
 </p>
 
 <p align="center">
+  <a href="https://mr-amit-yadav.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-e87532?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/amit.yadav1803/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/amitvibes">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="mailto:amit.y21c@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/mr-amit-yadav">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Email-Say_Hello-c65328?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 Welcome
 
-I'm a Data Science & AI graduate with a strong focus on data analytics and decision-making, driven by a passion for transforming data into meaningful insights.
+Thanks for stopping by — chai in hand, query in mind. 🍵
 
-- 🔍 **Focus Areas:** Data Analysis, Machine Learning, Business Intelligence
-- 💼 **Career Goal:** Data Analyst specializing in predictive analytics and data-driven storytelling
-- 🌱 **Currently Learning:** Advanced ML algorithms, Deep Learning, and Data Engineering pipelines
-- ⚡ **Beyond Tech:** Practicing yoga, book reader, and believer in purpose-driven growth
+I'm a **Data Science & AI graduate** from the University of Mumbai who believes that **data is a tool, insight is the impact**. My favourite part of the job is the quiet moment when a messy spreadsheet finally gives up its secret — and then turning that moment into something a person can actually act on.
+
+Right now I'm an **STP Consultant at EnFuse Solutions**, keeping AI/ML pipelines honest — validating data on AWS S3, auditing extractions, and preparing the ground-truth datasets that models learn from. Before that, I built a **KPI intelligence framework for carbon monitoring at SequestraBionix**, because I care about data that helps the planet too.
+
+- 🔍 **Focus:** Data Analysis · Business Intelligence · Applied AI
+- 💼 **Currently:** STP Consultant @ EnFuse Solutions
+- 🌱 **Learning:** Advanced ML, data engineering pipelines — and 日本語
+- 💬 **Ask me about:** dashboards, SQL puzzles, chess openings, or a good book
+- ♡ **Open to:** data roles with meaning — especially in sustainability
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tools I Reach For
 
 <div align="center">
 
 | Category | Technologies |
 |:--------:|:------------|
 | **💻 Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **📊 Data Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/-Statistical_Analysis-8B4513?style=flat-square&logo=scipy&logoColor=white) |
-| **📈 Visualization** | ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **🔧 Tools & Platforms** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
+| **📊 Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Statistics](https://img.shields.io/badge/-Statistical_Analysis-8B4513?style=flat-square&logo=scipy&logoColor=white) |
+| **📈 Visualization** | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **☁️ Cloud & Data** | ![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![Power Query](https://img.shields.io/badge/-Power_Query-F2C811?style=flat-square&logo=microsoftexcel&logoColor=black) ![DAX](https://img.shields.io/badge/-DAX-01579B?style=flat-square&logo=powerbi&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL-6B4C36?style=flat-square&logo=databricks&logoColor=white) |
+| **🤖 AI / ML** | ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=python&logoColor=white) ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **🔧 Workflow** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 Featured Projects
+## 📊 Selected Work — Chapters Written in Data
 
-### 🤖 AI-Powered Learning Assistant
+### 🎓 Student Depression Analysis · *Tableau · SQL Server*
+A live Tableau dashboard exploring how sleep, study hours, academic pressure and financial stress relate to student wellbeing — 500 survey records, cleaned in SQL Server and deployed on Tableau Public.
 
-An intelligent learning assistant designed to elaborate on complex concepts and improve academic understanding through AI-driven explanations.
-
-**Tech Stack:**  
-`Python` • `Google Gemini API` • `Streamlit` • `Hugging Face`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
+🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/StudentDepressionAnalysis_17819114122320/StudentCountAnalysis)
 
 ---
 
-### 📈 Adidas Sales Dashboard
+### 💳 UPI Transaction Analytics Dashboard · *Power BI · DAX*
+End-to-end Power BI dashboard over 20,000 UPI transactions — payment behaviour, success rates, city-wise spending and demographic insight built for fintech decision-making.
 
-An interactive business intelligence dashboard built to visualize, analyze, and extract meaningful insights from Adidas sales data.
-
-**Tech Stack:**  
-`Python` • `Streamlit` • `Pandas` • `Data Visualization`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/Adidas_Sales_Dashboard)
+🔗 [**View project**](https://github.com/mr-amit-yadav/UPI-Transaction-Analytics-Dashboard)
 
 ---
 
-### 🏪 ElectroHub – Power BI Sales Analytics Dashboard
+### 🛍️ Superstore Sales Analysis · *Tableau · Retail*
+An interactive Tableau story of Superstore sales — profit by region, order trends, pricing tiers and the profit-to-sales relationship.
 
-A comprehensive retail sales analytics dashboard built in Power BI for ElectroHub, a multi-category store selling Electronics, Footwear, Clothing, Home Appliances, Accessories, Kitchenware, Bags, and Personal Care products. Analyzes transactional sales data to surface key business insights including revenue trends, product performance, customer behavior, discount effectiveness, and geo-based analysis.
-
-**Tech Stack:**  
-`Power BI` • `Data Analysis` • `Data Visualization` • `Business Intelligence`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/Electrohub)
+🔗 [**View live dashboard**](https://public.tableau.com/app/profile/amit.yadav1803/viz/SuperstoreSalesTableauDashboard_17813572391830/Dashboard1)
 
 ---
 
-### 🛒 Customer Purchase Analysis
+### 🏪 ElectroHub Sales Analytics · *Power BI · Business Intelligence*
+Multi-category retail analytics across electronics, footwear, clothing, home appliances and more — revenue trends, product performance, discount effectiveness, customer behaviour and geo-based analysis.
 
-Analyzed a chips-category retail dataset to understand how different customer segments purchase chips. Using transactional and demographic data, the analysis segments customers by life stage and price sensitivity, extracts product attributes (brand, pack size), and visualizes purchasing trends to derive actionable business insights.
-
-**Tech Stack:**  
-`Python` • `Pandas` • `Exploratory Data Analysis` • `Data Visualization`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis)
+🔗 [**View project**](https://github.com/mr-amit-yadav/Electrohub)
 
 ---
 
-### 🍷 Red Wine Exploratory Data Analysis
+### 🤖 AI-Powered Learning Assistant · *Python · Gemini API · Streamlit*
+An intelligent study companion that elaborates complex concepts through AI-driven explanations — built with Google's Gemini API, NLP and Streamlit.
 
-A comprehensive Exploratory Data Analysis (EDA) of the Portuguese "Vinho Verde" Red Wine dataset, examining physicochemical properties and their relationship to wine quality.
-
-**Tech Stack:**  
-`Python` • `Pandas` • `Seaborn` • `Matplotlib` • `Data Cleaning` • `Statistical Analysis`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/Red_Wine_Exploratory_Data_Analysis)
+🔗 [**View project**](https://github.com/mr-amit-yadav/AI_Powered_Learning_Assistant)
 
 ---
 
-### 🔗 Professional QR Code Generator
+### 👟 Adidas Sales Dashboard · *Python · Streamlit · Pandas*
+Interactive business intelligence on Adidas sales — regional performance, product popularity and sales trends, served as a live Streamlit app.
 
-A modern QR Code Generator web app with customizable colors, styling options, and instant download feature built using Python and Streamlit.
-
-**Tech Stack:**  
-`Python` • `Streamlit`
-
-🔗 [View Project](https://github.com/mr-amit-yadav/QR-Code-Generator)
+🔗 [**View project**](https://github.com/mr-amit-yadav/Adidas-streamlit-Dashboard)
 
 ---
 
-## 🌐 Web & Portfolio
+<details>
+<summary><b>📁 More experiments — EDA, retail analytics & small tools</b></summary>
 
-### 🌍 Personal Portfolio Website
+<br>
 
-A personal portfolio website built with HTML to showcase my journey in Data Science and Artificial Intelligence.
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [Chips Customer Purchase Analysis](https://github.com/mr-amit-yadav/Chips_Customer_Purchase_Analysis) | Segments retail customers by life stage and price sensitivity, extracting brand and pack-size attributes from transaction data | `Python` `Pandas` `EDA` |
+| [Red Wine Exploratory Data Analysis](https://github.com/mr-amit-yadav/Red_Wine_Exploratory_Data_Analysis) | Examines the physicochemical properties of the Portuguese “Vinho Verde” dataset and how they relate to quality | `Python` `Seaborn` `Statistics` |
+| [QR Code Generator](https://github.com/mr-amit-yadav/QR-Code-Generator) | A modern QR generator web app with custom colours, styling and instant download | `Python` `Streamlit` |
+
+</details>
 
 ---
 
-## 💭 Philosophy
+## 📈 A Few Numbers
+
+<div align="center">
+
+| 9.28 | 12+ | 6 |
+|:--:|:--:|:--:|
+| **CGPA** · B.Sc. Data Science & AI | **Projects shipped** | **Tools, one craft** |
+
+</div>
 
 <p align="center">
-  <em>"Don't just aspire to make a living, aspire to make a difference."</em><br>
-  — Denzel Washington
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-amit-yadav&show_icons=true&hide_border=true&title_color=e87532&icon_color=c65328" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amit-yadav&layout=compact&hide_border=true&title_color=e87532" height="165" alt="Top languages" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🌿 Beyond the Data
 
-<p align="center">
-  I'm always excited to connect with fellow data enthusiasts, learners, and professionals.<br>
-  Feel free to reach out for collaborations, discussions, or just to say hi! 👋
-</p>
+The chapters between the charts — because analysis is better when the analyst is well-rested.
 
-<p align="center">
-  <strong>📧 Email:</strong> amit.y21c@gmail.com <br>
-  <strong>🔗 LinkedIn:</strong> 
-  <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
-    linkedin.com/in/amit-yadav-3408a2308
-  </a>
-</p>
+| | |
+|:--|:--|
+| 📚 **Books** | Living one page at a time. Every dataset is a story; books taught me how to read them. |
+| ♟️ **Chess** | Thinking five moves ahead — the habit transfers surprisingly well to data modelling. |
+| 🈶 **日本語** | Slowly, patiently learning Japanese. |
+| 🧘 **Yoga** | Diploma in Yogic Science. Creating peace in chaos. |
+| ✏️ **Sketching** | Lines before dashboards. |
+
+> *“Don't just aspire to make a living, aspire to make a difference.”*
+> — a note pinned above my desk
+
+---
+
+## 🤝 Let's Write the Next Chapter
+
+Hiring for a data role, building something interesting, or just want to talk books, chess and dashboards? My inbox is always open — and the coffee is warm. ☕
+
+<div align="center">
+
+📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)
+🔗 **LinkedIn:** [amit-yadav-3408a2308](https://www.linkedin.com/in/amit-yadav-3408a2308)
+🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)
+📊 **Tableau Public:** [amit.yadav1803](https://public.tableau.com/app/profile/amit.yadav1803/vizzes)
+📍 **Based in:** Mumbai, Maharashtra, India
+
+</div>
 
 ---
 
 <p align="center">
-  <em>⭐ Thanks for visiting! If you find my work interesting, consider following me ⭐</em><br>
-  <img src="https://komarev.com/ghpvc/?username=mr-amit-yadav&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <em>⭐ Thanks for visiting — if something here sparked an idea, I'd love to hear about it.</em><br>
+  <img src="https://komarev.com/ghpvc/?username=mr-amit-yadav&label=Profile%20Views&color=e87532&style=flat" alt="Profile Views" />
 </p>
