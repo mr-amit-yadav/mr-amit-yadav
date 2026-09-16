@@ -115,6 +115,12 @@ An intelligent study companion that elaborates complex concepts through AI-drive
 
 </div>
 
+## 💭 Philosophy
+
+<p align="center">
+  <em>"Don't just aspire to make a living, aspire to make a difference."</em><br>
+  — Denzel Washington
+</p>
 
 ## 🤝 Let's Write the Next Chapter
 
@@ -124,8 +130,7 @@ Hiring for a data role, building something interesting, or just want to talk boo
 
 📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)
 🔗 **LinkedIn:** [amit-yadav-3408a2308](https://www.linkedin.com/in/amit-yadav-3408a2308)
-🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)<br>
-📊 **Tableau Public:** [amit.yadav1803](https://public.tableau.com/app/profile/amit.yadav1803/vizzes)<br>
+🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)
 📍 **Based in:** Mumbai, Maharashtra, India
 
 </div>
