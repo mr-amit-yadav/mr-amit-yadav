@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coffe.jpeg" alt="Amit Yadav" />
+  <img src="coffe.jpg" alt="Amit Yadav" />
 </p>
 
 <p align="center">
