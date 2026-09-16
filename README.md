@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="coffe.jpg" alt="Amit Yadav" />
-</p>
+<h1 align="center">Hi 👋, I'm Amit Yadav</h1>
+<h3 align="center">Data Analyst · Data Science & AI Graduate · Mumbai, India</h3>
 
 <p align="center">
   <em>“Finding beauty in logic, and creating peace in chaos.”</em>
@@ -8,19 +7,19 @@
 
 <p align="center">
   <a href="https://mr-amit-yadav.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-e87532?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=17120f" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-e87532?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amit-yadav-3408a2308">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17120f" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/amit.yadav1803/vizzes">
-    <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=17120f" alt="Tableau Public" />
+    <img src="https://img.shields.io/badge/Tableau-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/amitvibes">
-    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=17120f" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="mailto:amit.y21c@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-c65328?style=for-the-badge&logo=gmail&logoColor=white&labelColor=17120f" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say_Hello-c65328?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -28,15 +27,15 @@
 
 ## 👋 Welcome
 
-Thanks for stopping by — chai in hand, query in mind. 🍵
+Thanks for stopping by - chai in hand, query in mind. 🍵
 
-I'm a **Data Science & AI graduate** from the University of Mumbai who believes that **data is a tool, insight is the impact**. My favourite part of the job is the quiet moment when a messy spreadsheet finally gives up its secret — and then turning that moment into something a person can actually act on.
+I'm a **Data Science & AI graduate** from the University of Mumbai who believes that **data is a tool, insight is the impact**. My favourite part of the job is the quiet moment when a messy spreadsheet finally gives up its secret - and then turning that moment into something a person can actually act on.
 
-Right now I'm an **STP Consultant at EnFuse Solutions**, keeping AI/ML pipelines honest — validating data on AWS S3, auditing extractions, and preparing the ground-truth datasets that models learn from. Before that, I built a **KPI intelligence framework for carbon monitoring at SequestraBionix**, because I care about data that helps the planet too.
+Right now I'm an **STP Consultant at EnFuse Solutions**, keeping AI/ML pipelines honest - validating data on AWS S3, auditing extractions, and preparing the ground-truth datasets that models learn from. Before that, I built a **KPI intelligence framework for carbon monitoring at SequestraBionix**, because I care about data that helps the planet too.
 
 - 🔍 **Focus:** Data Analysis · Business Intelligence · Applied AI
 - 💼 **Currently:** STP Consultant @ EnFuse Solutions
-- 🌱 **Learning:** Advanced ML, data engineering pipelines — and 日本語
+- 🌱 **Learning:** Advanced ML, data engineering pipelines - and 日本語
 - 💬 **Ask me about:** dashboards, SQL puzzles, chess openings, or a good book
 - ♡ **Open to:** data roles with meaning — especially in sustainability
 
@@ -128,12 +127,6 @@ Interactive business intelligence on Adidas sales — regional performance, prod
 | **CGPA** · B.Sc. Data Science & AI | **Projects shipped** | **Tools, one craft** |
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-amit-yadav&show_icons=true&hide_border=true&title_color=e87532&icon_color=c65328" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-amit-yadav&layout=compact&hide_border=true&title_color=e87532" height="165" alt="Top languages" />
-</p>
-
 ---
 
 ## 🌿 Beyond the Data
@@ -143,7 +136,7 @@ The chapters between the charts — because analysis is better when the analyst 
 | | |
 |:--|:--|
 | 📚 **Books** | Living one page at a time. Every dataset is a story; books taught me how to read them. |
-| ♟️ **Chess** | Thinking five moves ahead — the habit transfers surprisingly well to data modelling. |
+| ♟️ **Chess** | Thinking five moves ahead - the habit transfers surprisingly well to data modelling. |
 | 🈶 **日本語** | Slowly, patiently learning Japanese. |
 | 🧘 **Yoga** | Diploma in Yogic Science. Creating peace in chaos. |
 | ✏️ **Sketching** | Lines before dashboards. |
@@ -155,13 +148,13 @@ The chapters between the charts — because analysis is better when the analyst 
 
 ## 🤝 Let's Write the Next Chapter
 
-Hiring for a data role, building something interesting, or just want to talk books, chess and dashboards? My inbox is always open — and the coffee is warm. ☕
+Hiring for a data role, building something interesting, or just want to talk books, chess and dashboards? My inbox is always open - and the coffee is warm. ☕
 
 <div align="center">
 
-📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)
+📧 **Email:** [amit.y21c@gmail.com](mailto:amit.y21c@gmail.com)<br>
 🔗 **LinkedIn:** [amit-yadav-3408a2308](https://www.linkedin.com/in/amit-yadav-3408a2308)
-🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)
+🌍 **Portfolio:** [mr-amit-yadav.github.io](https://mr-amit-yadav.github.io)<br>
 📊 **Tableau Public:** [amit.yadav1803](https://public.tableau.com/app/profile/amit.yadav1803/vizzes)
 📍 **Based in:** Mumbai, Maharashtra, India
 
